@@ -8,4 +8,5 @@
     font-size: 2.1em;
     word-break: break-all;
     word-wrap: break-word;
+    border-bottom: 1px solid black;
 }
